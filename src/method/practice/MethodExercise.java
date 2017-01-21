@@ -9,7 +9,6 @@ public class MethodExercise {
 	
 	}
 	
-	
 	/** 1 Write a method that take your name input and
 	 * return your name
 	 * 
@@ -18,13 +17,9 @@ public class MethodExercise {
 	 * serving bucket : Variable
 	 */
 	
-	
 	public static String getName(String text){
 		String massage = "";
-		massage = text;
-		
-		
-		
+		massage = text;	
 		return massage;
 	}
 
